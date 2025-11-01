@@ -1,0 +1,12 @@
+echo .vs/>>.gitignore
+echo bin/>>.gitignore
+echo obj/>>.gitignore
+echo packages/>>.gitignore
+echo *.user>>.gitignore
+echo *.suo>>.gitignore
+.vs/
+bin/
+obj/
+packages/
+*.user
+*.suo
